@@ -4,9 +4,6 @@
 
 For this project we build a RNN sequence-to-sequence learning in Keras to translate a language A to a language B.
 
-## Language and Dataset
-
-Since I am french, I choose to translate english to french. However our system is pretty general and accepts any other language pair (e.g. english/french). By defauft, we use ANKI dataset which can be easy download [there](http://www.manythings.org/anki/)
 
 ## What is Sequence-to-sequence learning ?
 
